@@ -3,7 +3,7 @@
  
   **'Desenvolvedora'**
   
-  Me chamo Débora Rayssa P Farias, tenho 21 anos e sou natural de Belém do Pará. Concluí o ensino médio no Integrado. Atualmente, estou cursando Engenharia da Computação. Sou apaixonada por tecnologia e buscando novas áreas de desenvolvemento. 
+  Oii! Me chamo Débora Rayssa, tenho 21 anos e sou natural de Belém do Pará. Concluí o ensino médio no Integrado. Atualmente, estou cursando Engenharia da Computação. Sou apaixonada por tecnologia e buscando novas áreas de desenvolvemento. 
  
 <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
     </a>
